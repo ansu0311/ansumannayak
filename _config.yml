@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sahil Khose"
+title                    : "Ankita Ghosh"
 title_separator          : "-"
-name                     : &name "Sahil Khose"
+name                     : &name "Ankita Ghosh"
 description              : &description "AI Research Intern at IISc Bangalore"
-url                      : https://sahilkhose.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ankitaghosh9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sahilkhose/sahilkhose.github.io"
+repository               : "ankitaghosh9/ankitaghosh9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahil Khose"
-  avatar           : "profile.png"
+  name             : "Ankita Ghosh"
+  avatar           : "ankita_ghosh.png"
   bio              : "Final year CS undergrad at MIT, Manipal"
   location         : "Manipal"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=p1AgiZcAAAAJ&hl=en"
-  email            : "sahilkhose18@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HsR8SEMAAAAJ&hl=en"
+  email            : "ghoshankita0907@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sahilkhose"
+  github           : "ankitaghosh9"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sahilkhose"
+  linkedin         : "ghoshankita0907"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SahilKhose"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "SahilKhose"
+  youtube          : 
   wikipedia        :
 
 
