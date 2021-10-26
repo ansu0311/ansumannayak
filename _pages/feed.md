@@ -7,8 +7,7 @@ redirect_from:
   - /feed
 ---
 
-## Poetry
-  - [Poetry Page](https://www.instagram.com/blotting.paper/)
+## [Poetry]((https://www.instagram.com/blotting.paper/)
   - [The One by My Creative Genius](https://www.manipalthetalk.org/creative/the-one-by-my-creative-genius/)
   - [Gold](https://www.manipalthetalk.org/creative/gold-day-four-of-napowrimo-2021/)
   - [Quarantine](https://www.instagram.com/reel/CFAHNLgBf05/?igshid=meha1h0nyid6)
