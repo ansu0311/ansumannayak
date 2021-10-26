@@ -3,7 +3,7 @@ title: "Semi-Supervised Classification and Segmentation on High Resolution Aeria
 collection: publications
 permalink: /publication/FloodNet
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021-05-16
+# date: 2021-05-16
 venue: 'Tackling Climate Change with Machine Learning workshop, NeurIPS 2021'
 paperurl: 'https://arxiv.org/abs/2105.08655'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
