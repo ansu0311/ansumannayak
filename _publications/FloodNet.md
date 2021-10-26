@@ -1,7 +1,7 @@
 ---
 title: "Semi-Supervised Classification and Segmentation on High Resolution Aerial Images"
 collection: publications
-permalink: /publication/2021-05-16-paper-title-number-2
+permalink: /publication/FloodNet
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-05-16
 venue: 'Tackling Climate Change with Machine Learning workshop, NeurIPS 2021'
