@@ -13,6 +13,8 @@ redirect_from:
   - [Gold](https://www.manipalthetalk.org/creative/gold-day-four-of-napowrimo-2021/)
   - [Quarantine](https://www.instagram.com/reel/CFAHNLgBf05/?igshid=meha1h0nyid6)
 <br> <br>
+
+
 ## Articles
   - [A Beginner’s Guide to Coding Languages](https://www.manipalthetalk.org/manipal/a-beginners-guide-to-coding-languages/)
   - [Stifled Minds in Quaran-times](https://www.manipalthetalk.org/informative/stifled-minds-in-quaran-times/)
