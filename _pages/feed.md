@@ -21,3 +21,6 @@ redirect_from:
   - [Serpents, Sceptres and Unlikely Sisters: Ulupi and Chitrangada from the Mahabharata](https://www.manipalthetalk.org/creative/stories-11creative/serpents-sceptres-and-unlikely-sisters-ulupi-and-chitrangada-from-the-mahabharata/)
   - Captions to [1](https://www.instagram.com/p/CHNvszoBnJT/?igshid=190x8s047hz6c) [2](https://www.instagram.com/p/CJ3pK43BpJB/?igshid=1jehsxk3xr2a5)
 
+## Talk
+  -  [Introduction to Computer Vision](https://drive.google.com/drive/folders/1LeJ-VOzK08jvw6ILYycikIZNcGpssCQO?usp=sharing) <br> A talk given by me as a part of the 'Birds of a Feather' webinar series hosted by [Research Society MIT](https://www.researchsocietymit.com/events/605231894376a90017759f51) to introduce various research fields to beginners. The talk covers the mathematics behind computer vision, gave a brief overview of CNNs, pointers to remember when it comes to data preprocessing, and discussion on some of the recent cutting-edge research papers in the field. The webinar ended with a Q&A session.
+
