@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-08-26-paper-title-number-3
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-01-01
-venue: 'New in ML workshop, NeurIPS'
+venue: 'Machine Learning for Creativity and Design workshop, NeurIPS'
 paperurl: 'https://arxiv.org/abs/2108.11554'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
