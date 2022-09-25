@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ankita Ghosh"
 title_separator          : "-"
 name                     : &name "Ankita Ghosh"
-description              : &description "AI Research Intern at IISc Bangalore"
+description              : &description "MSc Computer Science at ETH Zürich"
 url                      : https://ankitaghosh9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ankitaghosh9/ankitaghosh9.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ankita Ghosh"
   avatar           : "ankita_ghosh.png"
-  bio              : "Final year CS undergrad at MIT, Manipal"
-  location         : "Manipal"
+  bio              : "MSc Computer Science at ETH Zürich"
+  location         : "Switzerland"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HsR8SEMAAAAJ&hl=en"
-  email            : "ghoshankita0907@gmail.com"
+  email            : "anghosh@student.ethz.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
