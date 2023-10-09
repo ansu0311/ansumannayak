@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Ankita Ghosh, an MSc Computer Science student majoring in visual and interactive computing in ETH Zürich, Switzerland. My interest lies in the field of computer vision, deep learning, image processing, computer graphics and human-computer interaction.
-<br> <br>
-Previously I have interned at the Spectrum Lab in the [Indian Institute of Science, Bangalore](https://eecs.iisc.ac.in/) to devise deep learning approaches for diabetic retinopathy analysis and at the [Social and Intelligent Robotics Research Laboratory](https://uwaterloo.ca/social-intelligent-robotics-research-lab/) in the University of Waterloo through Mitacs Globalink Research Program on the topic of Emotion Recognition and Expression in Social Robots. I have worked on a medical projects like rendering 3D anatomical parts in a virtual environment, and applications of deep learning in ophthalmology. 
-<br> <br>
-During my undergraduate, I co-founded [the Research Society](https://www.researchsocietymit.com/) at Manipal Institute of Technology with the core aim of promoting inter-disciplinary research, publishing papers in relevant journals and international conferences along with securing funding for projects and patents. We regularly conduct guest lectures, alumni interaction sessions and paper presentation workshops. For further information and collaborations, you can email us at <research.society.mit@gmail.com>.
-<br> <br>
-When I am not squinting my eyes at a research paper or a snippet of code, I spend my time fangirling over crime shows and Taylor Swift, watching animal videos or penning my thoughts in rhymes and metaphors. You can check my articles in the Feed section 🖋️
-<br> <br>
-I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
+Hello, I am Ansuman Nayak, a software developer with expertise in database management, data analysis, visualization, and version control tools. I graduated with a Bachelor of Technology in Electronics and Instrumentation from Manipal Institute of Technology in 2022.
+<br><br>
+I have experience as a ServiceNow analyst at KPMG, specifically working with the ITSM module, which has honed my analytical and problem-solving skills. My proficiency lies in MySQL, Tableau, Python, Javascript, and SQL among others. I am now pursuing my interest in the field of data science and engineering. 
+<br><br>
+When my hands start cramping from typing on the keyboard for too long, I like to pick up a paintbrush to experiment with colors on a canvas or a spatula to relax and cook. 
+<br><br>
+Currently, I am looking to utilize my skills and experience as a database engineer to develop and maintain high-performance databases. I am driven to create things and find solutions that have a positive influence on people's lives, and I am constantly interested in picking up new skills and technologies for accomplishing this. You can be reach out to me via email at <ansuman.nayak03@gmail.com>.
